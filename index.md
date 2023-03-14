@@ -1,4 +1,4 @@
-## Introduction:
+# Introduction:
 Welcome to this complete 3D printing tutorial, specifically designed for Pennsbury High School, where we'll guide you through the entire process of turning your 3D model into a physical object. Whether you're new to 3D printing or an experienced maker, this guide will cover everything from preparing your model for printing through slicing and preparing your printer, printing your model, and finishing it to perfection. By following this tutorial, you'll gain a thorough understanding of the 3D printing process and be able to create your own high-quality prints. Let's get started!
 
 
