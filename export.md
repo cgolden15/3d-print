@@ -19,4 +19,4 @@ Now you will need to select the model you want to export. As soon as you open th
 |:--:|
 |*figure 2a*|
 
-Finally, hit the "Oi" button and wait for Cura to load!
+Finally, hit the "Ok" button and wait for Cura to load!
