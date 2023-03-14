@@ -1,6 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
+
+title: 3D Printing
+repository: cgolden15/3d-printing
 color_scheme: dark
+
 
 search_enabled: true
 
