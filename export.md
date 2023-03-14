@@ -23,4 +23,4 @@ Now you will need to select the model you want to export. As soon as you open th
 ![image](https://user-images.githubusercontent.com/61284764/224889263-948ccea0-c965-4bcc-8544-c27bb383f805.png)
 *figure 2a*
 
-Finally, hit the "Ok" button and wait for Cura to load!
+Finally, hit the "Ok" button and wait for Cura to load! You can now move on to the next section, [Slicing your model](https://goldenn.dev/3d-printing/slicing)!
