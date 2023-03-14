@@ -28,6 +28,7 @@ For example, with a resolution of 0.06mm, this 25x25mm cube takes just over 2 ho
 
 It's up to you to pick your layer height depending on what you're printing, but I reccomend 0.15-0.2mm for the best print speeds.
 
+<br>
 
 ### Infill:
 
@@ -36,3 +37,27 @@ Infill is the material that is generated inside of your object to support the ro
 The default value of 20% will work just fine for a majority of prints, as it is the optimal balance between speed and strength. If your part needs to hold weight or needs to withstand large amounts of stress, consider raising this as your part will be much stronger. The inverse of this is also true, if your part is a simple cube like mine, and does not need to be very strong we can lower this value to 10%, to save time and materials. Below is an image of my cube with 20% infill, with the top layers hidden so you can see inside.
 
 ![image](https://user-images.githubusercontent.com/61284764/224894227-ffca10e0-a4c0-44ac-a328-43b3d98d2326.png)
+
+*figure 2c*
+
+<br>
+
+### Support:
+
+Sometimes your model has large overhangs, tall parts or just a part where it has more than a 65 degree angle. To make sure the printer has something to put the material on, we use what we call support strucutres. These are quite simple(for now) and should be enabled if your print needs has an angle over 65 degrees from vertical. For example, we have this dog model that has a very long stretch between the legs that would otherwise not print!
+
+![image](https://user-images.githubusercontent.com/61284764/224895544-bfe05dac-7f15-4f24-b959-61df0f553efd.png)
+
+*figure 2d*
+
+<br>
+
+### Adhesion:
+
+This setting is probably the easiest of them all. If your print is small, or does not have a lot of contact area on the print bed, you should enable it. My cube has a large flat surface on the bottom, so I would not need to enable this. However, if you are making a part with little contact on the bed, enabling this setting tells the program to generate a few 1 layer thick rings that attach to the bottom layer of the print. This increases the surface area on the bed, making it stick better! Don't worry though, these can easily be pulled or cut off after the print is done! Heres what it looks like(orange lines)!
+
+![image](https://user-images.githubusercontent.com/61284764/224896293-b79770fa-543d-43ca-ba27-bfc3554b11f6.png)
+
+*figure 2e*  
+
+<br>
