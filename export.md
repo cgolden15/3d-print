@@ -1,3 +1,9 @@
+---
+layout: default
+title: Exporting
+nav_order: 2
+---
+
 # Exporting your model:
 
 There are two methods to export your model from Fusion360 into Cura, they are both the same, so do whever is easier for you. Directly exporting your model into cura is the easiest, however if you want to back your model up to your computer, or anything else you will need to use the download/upload method.
