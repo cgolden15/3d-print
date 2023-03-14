@@ -24,4 +24,5 @@ To Directly export your model into Cura, navigate to your file settings in Fusio
 ![image](https://user-images.githubusercontent.com/61284764/224887547-cd528e6c-4b47-4ee9-a4b2-b72018f9c25e.png)
 
 To proceed, you will need to select the model you want to export. As soon as you open the 3d print menu, you can simply click on the part you wish to export and it will select it.
+
 ![image](https://user-images.githubusercontent.com/61284764/224888162-fbf9d0b1-a2b4-48a6-a3a9-f6dd1aaea4b9.png)
