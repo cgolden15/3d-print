@@ -1,7 +1,7 @@
----
 layout: default
 title: Exporting
-nav_order: 2
+parent: Basic Printing
+nav_order: 1
 ---
 
 # Exporting your model:
