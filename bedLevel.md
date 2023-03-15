@@ -2,7 +2,7 @@
 layout: default
 title: Bed Leveling 
 nav_order: 1
-parent: troubleshooting
+parent: Troubleshooting
 ---
 
 # Bed Leveling
