@@ -8,6 +8,8 @@ has_toc: false
 
 # Troubleshooting:
 
+<br>
+
 Having issues with your 3d prints? Check out these common issues & their fixes! 
 
 <details open markdown="block">
@@ -19,10 +21,10 @@ Having issues with your 3d prints? Check out these common issues & their fixes!
 {:toc}
 </details>
 
+<br>
 
-## Whats going wrong:
-
-Not sure whats going wrong? Check out these examples to figure out whats happening!
+## Not sure whats going wrong? 
+Check out these examples to figure out whats happening!
 
 ### Material not sticking to the build plate:
 
