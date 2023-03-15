@@ -42,6 +42,16 @@ The default value of 20% will work just fine for a majority of prints, as it is 
 
 <br>
 
+### Adhesion: 
+
+This setting is probably the easiest of them all. If your print is small, or does not have a lot of contact area on the print bed, you should enable it. My cube has a large flat surface on the bottom, so I would not need to enable this. However, if you are making a part with little contact on the bed, enabling this setting tells the program to generate a few 1 layer thick rings that attach to the bottom layer of the print. This increases the surface area on the bed, making it stick better! Don't worry though, these can easily be pulled or cut off after the print is done! Heres what it looks like(orange lines)!
+
+![image](https://user-images.githubusercontent.com/61284764/224896293-b79770fa-543d-43ca-ba27-bfc3554b11f6.png)
+
+*figure 2e*  
+
+<br>
+
 ### Support:
 
 Sometimes your model has large overhangs, tall parts or just a part where it has more than a 65 degree angle. To make sure the printer has something to put the material on, we use what we call support strucutres. These are quite simple(for now) and should be enabled if your print needs has an angle over 65 degrees from vertical. For example, we have this dog model that has a very long stretch between the legs that would otherwise not print!
@@ -52,13 +62,3 @@ Sometimes your model has large overhangs, tall parts or just a part where it has
 
 <br>
 
-
-## Adhesion: 
-
-This setting is probably the easiest of them all. If your print is small, or does not have a lot of contact area on the print bed, you should enable it. My cube has a large flat surface on the bottom, so I would not need to enable this. However, if you are making a part with little contact on the bed, enabling this setting tells the program to generate a few 1 layer thick rings that attach to the bottom layer of the print. This increases the surface area on the bed, making it stick better! Don't worry though, these can easily be pulled or cut off after the print is done! Heres what it looks like(orange lines)!
-
-![image](https://user-images.githubusercontent.com/61284764/224896293-b79770fa-543d-43ca-ba27-bfc3554b11f6.png)
-
-*figure 2e*  
-
-<br>
