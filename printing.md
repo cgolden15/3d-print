@@ -1,3 +1,10 @@
+---
+layout: default
+title: Printing
+parent: Basic Printing
+nav_order: 3
+---
+
 # Printing
 
 The hard part is done! All you need to do now, is walk over to the printer and start your print!
