@@ -59,3 +59,15 @@ This setting is probably the easiest of them all. If your print is small, or doe
 ![image](https://user-images.githubusercontent.com/61284764/224896293-b79770fa-543d-43ca-ba27-bfc3554b11f6.png)
 
 *figure 2e*  
+
+<br>
+
+### Finishing Steps:
+
+You've done it! You have sucessfully set the best settings for your print. Now all you need to do is give your part a name! In the bottom left corner of cura, it lists some information about your model. Click on the line that has the pencil on it(#1) and name it something you can remember. Include your name and something that describes your part(for example, my cube would be called "Cameron-Cube"). After that, look to the bottom right corner and click the "Slice" button(#2). It may take a minute or two depending on the complexity of your model. After it is done, it will display your print time and material required where the slice button was before. Finally, on the top middle of your screen, click the "Preview" button(#3) and inspect your sliced model to make sure it looks right! If it looks good, go ahead and save it to your SD card or USB drive. 
+
+![image](https://user-images.githubusercontent.com/61284764/225189762-77c062e3-3810-4831-a51f-24270f3ff6f4.png)
+
+*figure 2f*
+
+
