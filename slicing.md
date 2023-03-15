@@ -5,7 +5,7 @@ parent: Basic Printing
 nav_order: 2
 ---
 
-# Slicing:
+# Slicing
 Slicing a model is the process of running it through a type of program called, you guessed it, a slicer. There are various programs that do this, but the most popular is Cura. Running your model through a slicer turns the 3d model into a list of commands that the printer can execute, these commands are called gcode. I will be showing the process of slicing this example model of a cube using our Ultimaker 3 printer. This is a more advanced printer that has 2 extruders, but we will ignore that for the purpose of this simple overview.
 
 For the sake of simplicity I will go over the basic features of cura that you need to know here. If you are interesed in learning more, check out the advanced slicing tutorial under the advanced section.
