@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Slicing
-nav_order: 3
+parent: Basic Printing
+nav_order: 2
 ---
 
 # Slicing:
