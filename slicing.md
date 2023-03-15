@@ -52,7 +52,7 @@ Sometimes your model has large overhangs, tall parts or just a part where it has
 
 <br>
 
-### Adhesion: 
+## Adhesion: 
 
 This setting is probably the easiest of them all. If your print is small, or does not have a lot of contact area on the print bed, you should enable it. My cube has a large flat surface on the bottom, so I would not need to enable this. However, if you are making a part with little contact on the bed, enabling this setting tells the program to generate a few 1 layer thick rings that attach to the bottom layer of the print. This increases the surface area on the bed, making it stick better! Don't worry though, these can easily be pulled or cut off after the print is done! Heres what it looks like(orange lines)!
 
