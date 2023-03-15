@@ -3,6 +3,7 @@ layout: default
 title: Slicing
 parent: Basic Printing
 nav_order: 2
+last_modified_date: 03/14/2023 23:37
 ---
 
 # Slicing
