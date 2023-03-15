@@ -10,6 +10,10 @@ Slicing a model is the process of running it through a type of program called, y
 
 For the sake of simplicity I will go over the basic features of cura that you need to know here. If you are interesed in learning more, check out the advanced slicing tutorial under the advanced section.
 
+## Setting up Cura:
+
+If you have never used Cura before, you will need to first open it sperately. Click the windows key on your keyboard and type in cura, run the program once you see it. You will be prompted with a screen to add a printer. You will need to first click the "add non network printer" option, then scroll down the list until you find the printer model that matches the one you are using. You can find out which one you are using by asking your teacher. Alternatively on the ultimaker printers the model is shown at the top of the physical printer(2 go, 2+, 3, etc). After confirming your printer, hit the add button and click through the guided tutorial it gives you. You may now close cura and start exporting your model!
+
 ## Basic settings:
 At the top of your screen you should have the options shown below. You may need to click on the right most box to open the full print settings view.
 
