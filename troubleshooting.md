@@ -9,7 +9,14 @@ has_children: true
 
 Having issues with your 3d prints? Check out these common issues & their fixes! 
 
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 
 ## Whats going wrong:
