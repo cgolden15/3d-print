@@ -16,8 +16,8 @@ For simplicity, this documentation is built around Ultimaker 3D printers, as tha
 ## Getting Started: 
 
 So, you have your 3D model, in all its glory, perfected. You are ready to finally bring it into reality! Before we do this however, there are a few things we need to first. All steps will be explained in more detail below, but they are in order, as follows. 
-- [Exporting model](https://goldenn.dev/3d-printing/export) 
-- [Slicing model](https://goldenn.dev/3d-printing/slicing)
-- [Starting print](https://goldenn.dev/3d-printing/starting-print)
+- [Exporting model](https://goldenn.dev/3d-print/export) 
+- [Slicing model](https://goldenn.dev/3d-print/slicing)
+- [Starting print](https://goldenn.dev/3d-print/starting-print)
 
 Click on a step above or navigate to its page on the side bar to continue.
